@@ -25,3 +25,11 @@ D:\CYTS-Hub\Presentation\obj\Debug\net10.0\refint\Presentation.dll
 D:\CYTS-Hub\Presentation\obj\Debug\net10.0\Presentation.pdb
 D:\CYTS-Hub\Presentation\obj\Debug\net10.0\Presentation.genruntimeconfig.cache
 D:\CYTS-Hub\Presentation\obj\Debug\net10.0\ref\Presentation.dll
+D:\CYTS-Hub\Presentation\bin\Debug\net10.0\Application.dll
+D:\CYTS-Hub\Presentation\bin\Debug\net10.0\Domain.dll
+D:\CYTS-Hub\Presentation\bin\Debug\net10.0\Infrastructure.dll
+D:\CYTS-Hub\Presentation\bin\Debug\net10.0\Application.pdb
+D:\CYTS-Hub\Presentation\bin\Debug\net10.0\Infrastructure.pdb
+D:\CYTS-Hub\Presentation\bin\Debug\net10.0\Domain.pdb
+D:\CYTS-Hub\Presentation\obj\Debug\net10.0\Presentation.csproj.AssemblyReference.cache
+D:\CYTS-Hub\Presentation\obj\Debug\net10.0\Presenta.BC777DBE.Up2Date

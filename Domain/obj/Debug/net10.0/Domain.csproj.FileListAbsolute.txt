@@ -1,0 +1,12 @@
+D:\CYTS-Hub\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\CYTS-Hub\Domain\bin\Debug\net10.0\Domain.dll
+D:\CYTS-Hub\Domain\bin\Debug\net10.0\Domain.pdb
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\Domain.dll
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\Domain.pdb
+D:\CYTS-Hub\Domain\obj\Debug\net10.0\ref\Domain.dll
