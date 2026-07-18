@@ -1,5 +1,5 @@
 namespace Domain.Common.Abstractions;
-public abstract class AggregateRoot : SoftDeleteEntity, IAgreggateRoot
+public abstract class AggregateRoot : BaseEntity, IAggregateRoot
 {
     private readonly List<IDomainEvent> _domainEvents = new();
     public IReadOnlyCollection<IDomainEvent> DomainEvents => _domainEvents.AsReadOnly();

@@ -1,6 +1,6 @@
-namespace Domain.Common;
+namespace Domain.Common.Abstractions;
 
 // Penanda Entitas yang bersifat Root
-public interface IAgreggateRoot
+public interface IAggregateRoot
 {
 }

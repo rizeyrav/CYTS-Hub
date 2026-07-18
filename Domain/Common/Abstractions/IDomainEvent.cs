@@ -2,5 +2,5 @@ namespace Domain.Common.Abstractions;
 
 public interface IDomainEvent
 {
-    DateTimeOffset OccuredOn { get; }
+    DateTimeOffset OccurredOn { get; }
 }
