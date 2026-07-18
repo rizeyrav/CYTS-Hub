@@ -23,7 +23,7 @@ public static class GuardClasuseExtensions
         throw new ArgumentNullException(parameterName);
 
         if(string.IsNullOrWhiteSpace(input))
-        throw new ArgumentException("Nilai Tidak Boleh Kosong");
+        throw new ArgumentException("Nilai tidak boleh kosong");
         return input;
     }
     public static Guid NullOrEmpty(this IGuardClause guard, Guid input, string parameterName)
