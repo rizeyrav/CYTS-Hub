@@ -11,11 +11,11 @@ public sealed class KodeUnitKerja : ValueObject
     {
         Value = value;
     }
-    public static KodeUnitKerja Create(string value)
+    public static KodeUnitKerja Create(string kode)
     {
-        Guard.Againts.NullOrWhiteSpace(value,nameof(value));
-        Guard.Againts.MaxLength(value,MaxLength,value);
-        var normalized = value.Trim().ToUpperInvariant();
+        Guard.Againts.NullOrWhiteSpace(kode,nameof(kode));
+        Guard.Againts.MaxLength(kode,MaxLength,kode);
+        var normalized = kode.Trim().ToUpperInvariant();
         // Tambahkan validasi format
         return new KodeUnitKerja(normalized);
     }

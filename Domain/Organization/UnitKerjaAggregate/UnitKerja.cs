@@ -11,10 +11,10 @@ public sealed class UnitKerja : AggregateRoot
     public string? Alamat { get; private set; }
 
     //Constructor
-    private UnitKerja(KodeUnitKerja kode, string NamaUnitKerja, string? alamat)
+    private UnitKerja(KodeUnitKerja kode, string namaUnitKerja, string? alamat)
     {
         Kode = kode;
-        NamaUnitKerja = NamaUnitKerja;
+        NamaUnitKerja = namaUnitKerja;
         Alamat = alamat;
     }
     public static UnitKerja Create( string kode, string NamaUnitKerja, string? alamat = null)
