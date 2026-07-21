@@ -7,7 +7,7 @@ public sealed class KodeJabatan : ValueObject
     public string Value { get; }
     private KodeJabatan(string value)
     {
-        Value = Value;
+        Value = value;
     }
     public static KodeJabatan Create(string kode)
     {
